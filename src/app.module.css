@@ -1,0 +1,27 @@
+.chat {
+  position: absolute;
+  top: 6.93vw;
+  left: 61.31vw;
+  width: 19.22vw;
+  height: 3.1vw;
+  padding-top: 1.5vw;
+  background: red;
+  text-align: center;
+  color: white;
+  font-weight: 100;
+  line-height: 25px;
+}
+
+.request {
+  position: absolute;
+  top: 6.93vw;
+  left: 15.63vw;
+  width: 19.22vw;
+  height: 3.1vw;
+  padding-top: 1.5vw;
+  background: red;
+  text-align: center;
+  color: white;
+  font-weight: 100;
+  line-height: 25px;
+}

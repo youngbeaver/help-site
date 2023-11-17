@@ -1,0 +1,28 @@
+.about {
+  position: absolute;
+  width: 27.25vw;
+  height: 580px;
+  top: 18.69vw;
+  left: 68.25vw;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #f00;
+}
+
+.aboutText {
+  position: relative;
+  top: 0.9vw;
+  color: black;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.logo {
+  position: relative;
+  left: 11vw;
+  width: 5vw;
+  height: 5vw;
+}

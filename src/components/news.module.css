@@ -1,0 +1,9 @@
+.news {
+  position: absolute;
+  width: 47.44vw;
+  height: 36.25vw;
+  top: 18.69vw;
+  left: 2.5vw;
+  border-radius: 0.25vw;
+  border: 0.06vw solid #f00;
+}
